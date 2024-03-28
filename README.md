@@ -1,3 +1,1 @@
-# journal-app
-
-Testing deployment with Azure https://journal-app20240327113137.azurewebsites.net/
+Notepad application created with ASP.NET and deployed with Microsoft Azure
