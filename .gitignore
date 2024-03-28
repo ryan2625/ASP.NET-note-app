@@ -1,0 +1,37 @@
+# ASP.NET temporary files
+obj/
+bin/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Package files
+*.nupkg
+*.paket.restore.log
+
+# Node.js dependencies
+node_modules/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.log
+*.bak
+
+# Compiled website files
+*_deploy/
+
+# Test Results
+TestResults/
+
+# User-specific files
+*.DS_Store
+/journal-app.sln
+
+# Ignore all JavaScript files
+*.js
+
